@@ -81,7 +81,6 @@ CORS(app)
 Example error handling for unprocessable entity
 '''
 
-
 @app.errorhandler(422)
 def unprocessable(error):
     return jsonify({

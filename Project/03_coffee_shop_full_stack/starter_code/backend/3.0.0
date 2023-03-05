@@ -1,0 +1,8 @@
+Collecting python-jose
+  Using cached python_jose-3.3.0-py2.py3-none-any.whl (33 kB)
+Requirement already satisfied: pyasn1 in c:\sahadevan\projects\fullstacknanodegree\clone\coffee-shop\cd0039-identity-and-access-management\project\03_coffee_shop_full_stack\starter_code\backend\env\lib\site-packages (from python-jose) (0.4.8)
+Requirement already satisfied: rsa in c:\sahadevan\projects\fullstacknanodegree\clone\coffee-shop\cd0039-identity-and-access-management\project\03_coffee_shop_full_stack\starter_code\backend\env\lib\site-packages (from python-jose) (4.9)
+Requirement already satisfied: ecdsa!=0.15 in c:\sahadevan\projects\fullstacknanodegree\clone\coffee-shop\cd0039-identity-and-access-management\project\03_coffee_shop_full_stack\starter_code\backend\env\lib\site-packages (from python-jose) (0.18.0)
+Requirement already satisfied: six>=1.9.0 in c:\sahadevan\projects\fullstacknanodegree\clone\coffee-shop\cd0039-identity-and-access-management\project\03_coffee_shop_full_stack\starter_code\backend\env\lib\site-packages (from ecdsa!=0.15->python-jose) (1.16.0)
+Installing collected packages: python-jose
+Successfully installed python-jose-3.3.0
